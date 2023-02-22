@@ -15,3 +15,5 @@ then start merging your codes here with mine.
 9-	Start test execution manually and automated. After you done testing manually and completed codes in IntelliJ create your reports by completing RTM form. 
 10-	If you find any bug you should create bug ticket in Jira and fill up the bug description form. 
 11-	When you start coding your test cases always merge your part with your friends’ codes on GitHub. Your final project must be completed in GitHub. 
+
+Good Luck !
